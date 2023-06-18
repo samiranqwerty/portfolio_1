@@ -8,7 +8,7 @@ function Aboutme() {
     <Title text="About Me" icon={<SiInformatica/>}/>
     <div className='text-lg tracking-wide flex flex-col gap-6'>
       <p>
-      Welcome to my portfolio website! I'm SAMIRAN BISWAS, a passionate and creative Web Developer. With a background in Front End.<br/>
+      Welcome to my portfolio website! I am SAMIRAN BISWAS, a passionate and creative Web Developer. With a background in Front End.<br/>
       Since beginning my journey as a freelance designer over 6 month, i have done few clone website in my carrier and want to explore more about Web Development.
       </p>
       <p>

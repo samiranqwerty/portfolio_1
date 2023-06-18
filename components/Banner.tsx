@@ -14,7 +14,7 @@ function Banner() {
         <h1 className='text-3xl md:text-5xl font-bold text-white'>Samiran Biswas</h1>
         <h3 className='text-xl md:text-2xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-blue-300 via-red-300 to-indigo-300'>Full Stack Developer</h3>
         <p className='text-base tracking-wide'>
-        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
         </p>
       </div>
     </div>
