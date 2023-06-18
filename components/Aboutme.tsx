@@ -1,5 +1,5 @@
 import React from 'react'
-import {SiInformatica} from "react-icons/si"
+import { SiInformatica } from 'react-icons/si'
 import Title from './Title'
 
 function Aboutme() {
